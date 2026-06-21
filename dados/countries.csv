@@ -1,0 +1,25 @@
+country,iso3,region_canonical,wikidata_qid
+Brazil,BRA,South America,Q155
+Portugal,PRT,Europe,Q45
+Italy,ITA,Europe,Q38
+France,FRA,Europe,Q142
+Spain,ESP,Europe,Q29
+Greece,GRC,Europe,Q41
+Mexico,MEX,North America,Q96
+Peru,PER,South America,Q419
+United States,USA,North America,Q30
+Japan,JPN,Asia,Q17
+China,CHN,Asia,Q148
+South Korea,KOR,Asia,Q884
+Thailand,THA,Asia,Q869
+Vietnam,VNM,Asia,Q881
+India,IND,Asia,Q668
+Lebanon,LBN,Asia,Q822
+Turkey,TUR,Asia,Q43
+Morocco,MAR,Africa,Q1028
+Nigeria,NGA,Africa,Q1033
+Ethiopia,ETH,Africa,Q115
+Germany,DEU,Europe,Q183
+United Kingdom,GBR,Europe,Q145
+Russia,RUS,Europe,Q159
+Indonesia,IDN,Asia,Q252

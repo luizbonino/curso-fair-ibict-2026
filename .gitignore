@@ -1,0 +1,5 @@
+# Arquivos temporários de escritório
+~$*
+.~lock.*#
+*.tmp
+.DS_Store

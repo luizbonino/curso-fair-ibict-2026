@@ -1,0 +1,56 @@
+id,dish,ctry_origin,region,main_ingredients,course,veg,kcal,prep_time,year,spice
+D001,Feijoada,Brasil,South America,black beans; pork; sausage; collard greens,main,no,780,2h,19th century,1
+D002,Brigadeiro,Brazil,S. America,"condensed milk, cocoa, butter",dessert,sim,180,30 min,c. 1940,0
+D003,Pão de Queijo,Brazil,South America,cassava starch; cheese; egg; milk,snack,yes,120,40 min,,0
+D004,Moqueca,Brasil,South America,fish/coconut milk/palm oil/peppers,main,N,520,60 min,1700s,2
+D005,Coxinha,Brazil,,wheat flour; chicken; broth,snack,no,250,1h30,~1900,mild
+D006,Pastel de Nata,Portugal,Europe,egg; sugar; cream; pastry,dessert,Y,300,unknown,1837,0
+D007,Bacalhau a Bras,Portugal,Europe,"cod, potato, egg, onion",main,no,640,45 min,19th century,0
+D008,Pizza Margherita,Italy,Europe,wheat flour; tomato; mozzarella; basil,main,yes,850,1h,1889,0
+D009,Risotto alla Milanese,Italy,Europe,rice; saffron; butter; parmesan,main,yes,430,45 min,16th century,0
+D010,Lasagna,Italy,Europe,"pasta, beef, tomato, bechamel, cheese",main course,no,920,2h,c. 1300,0
+D011,Tiramisu,Italy,Europe,mascarpone; coffee; egg; cocoa; ladyfingers,dessert,yes,450,30 min,1960s,0
+D012,Ratatouille,France,Europe,eggplant/zucchini/tomato/pepper,main,sim,210,1h,18th century,0
+D013,Croissant,France,Europe,wheat flour; butter; yeast,snack,yes,270,3h,c. 1839,0
+D014,Paella,Spain,Europe,"rice, seafood, saffron, peas",main,no,700,1h,19th century,1
+D015,Gazpacho,Spain,Europe,tomato; cucumber; pepper; olive oil,starter,yes,120,20 min,16th century,0
+D016,Moussaka,Greece,Europe,eggplant; lamb; bechamel; tomato,main,N,680,2h,,1
+D017,Tacos al Pastor,Mexico,North America,corn tortilla; pork; pineapple; onion,main,no,550,unknown,1960s,3
+D018,Guacamole,México,North America,"avocado, lime, onion, cilantro",starter,yes,230,15 min,16th century,2
+D019,Mole Poblano,Mexico,N. America,chili; chocolate; spices; chicken,main,no,720,3h,c. 1680,4
+D020,Ceviche,Peru,South America,fish; lime; onion; chili,starter,no,250,30 min,~1800,3
+D021,Lomo Saltado,Peru,South America,"beef, onion, tomato, fries, rice",main,no,760,40 min,1800s,1
+D022,Cheeseburger,USA,North America,beef; cheese; bun; lettuce,main,no,NA,15 min,1920s,0
+D023,Mac and Cheese,United States,North America,pasta; cheese; milk; butter,main,yes,640,45 min,1769,0
+D024,Buffalo Wings,U.S.A.,North America,chicken; hot sauce; butter,starter,no,430,40 min,1964,4
+D025,Sushi,Japan,Asia,"rice, fish, seaweed, vinegar",main,no,300,1h,8th century,0
+D026,Ramen,Japan,Asia,wheat noodles; pork; egg; broth,main,no,550,unknown,1910s,1
+D027,Tempura,Japan,Asia,shrimp/vegetables/batter,starter,no,380,30 min,16th century,0
+D028,Peking Duck,China,Asia,duck; pancake; scallion; hoisin,main,no,810,,c. 1330,0
+D029,Mapo Tofu,China,Asia,tofu; pork; chili bean paste; sichuan pepper,main,no,420,30 min,1862,4
+D030,Dumplings,China,Asia,"wheat flour, pork, cabbage",starter,no,350,1h,1800 years ago,0
+D031,Kimchi,Korea,Asia,napa cabbage; chili; garlic; ginger,starter,sim,60,unknown,,3
+D032,Bibimbap,South Korea,Asia,rice; vegetables; egg; beef; gochujang,main,no,620,45 min,19th century,2
+D033,Pad Thai,Thailand,Asia,"rice noodles, egg, peanuts, tamarind, shrimp",main,no,700,30 min,1930s,2
+D034,Green Curry,Thailand,Asia,coconut milk; green chili; chicken; basil,main,no,560,40 min,,4
+D035,Pho,Vietnam,Asia,rice noodles; beef; broth; herbs,main,no,450,unknown,c. 1900,1
+D036,Banh Mi,Vietnam,Asia,"baguette, pork, pickled vegetables, cilantro",snack,no,490,20 min,1950s,1
+D037,Biryani,India,Asia,rice; chicken; yogurt; spices,main,no,,1h30,16th century,3
+D038,Masala Dosa,India,Asia,rice; lentils; potato; spices,main,yes,380,unknown,c. 1900,2
+D039,Dal Makhani,India,Asia,"black lentils, kidney beans, butter, cream",main,yes,430,2h,1947,2
+D040,Samosa,India,Asia,wheat flour/potato/peas/spices,snack,sim,260,1h,13th century,2
+D041,Hummus,Lebanon,Asia,chickpeas/tahini/lemon/garlic,starter,yes,180,20 min,13th century,0
+D042,Tabbouleh,Lebanon,Asia,bulgur; parsley; tomato; lemon,starter,yes,150,25 min,,0
+D043,Falafel,Lebanon,Asia,chickpeas; herbs; spices,snack,yes,330,unknown,,1
+D044,Doner Kebab,Turkey,Asia,lamb; bread; vegetables; yogurt,main,no,590,unknown,1860s,1
+D045,Baklava,Turkey,Asia,filo; nuts; honey; butter,dessert,yes,410,2h,c. 1453,0
+D046,Tagine,Morocco,Africa,lamb; apricot; almond; spices,main,no,650,2h,,2
+D047,Couscous,Morocco,Africa,"semolina, vegetables, chickpeas",main,yes,480,1h,13th century,1
+D048,Jollof Rice,Nigeria,Africa,rice; tomato; pepper; onion,main,sim,520,1h,,2
+D049,Egusi Soup,Nigeria,Africa,melon seeds; leafy greens; meat; palm oil,main,no,610,1h30,,2
+D050,Doro Wat,Ethiopia,Africa,chicken; berbere; onion; egg,main,no,680,2h,,4
+D051,Injera,Ethiopia,Africa,teff flour; water,snack,yes,200,3 days,ancient,0
+D052,Bratwurst,Germany,Europe,pork; spices,main,no,510,20 min,14th century,0
+D053,Fish and Chips,UK,Europe,cod; potato; batter,main,no,840,30 min,1860s,0
+D054,Borscht,Russia,Europe,"beetroot, cabbage, potato, beef",starter,no,320,2h,,0
+D055,Nasi Goreng,Indonesia,Asia,rice; egg; soy sauce; shallot,main,no,540,20 min,,2
