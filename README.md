@@ -53,8 +53,8 @@ Identificadores persistentes (DOI, Handle, ORCID), repositórios (Zenodo, Datave
 ```
 curso-fair-ibict-2026/
 ├── README.md
-├── slides/   — os 8 conjuntos de slides do curso, em PDF
-└── dados/    — conjunto de dados condutor "World Dishes" usado nas práticas
+├── slides/   — os 8 conjuntos de slides do curso, em PDF (LICENSE: CC BY-NC 4.0)
+└── dados/    — conjunto de dados condutor "World Dishes" usado nas práticas (LICENSE: CC0 1.0)
 ```
 
 ## Conjunto de dados condutor — "World Dishes"
@@ -64,6 +64,13 @@ Conjunto sintético criado para o curso, usado como exemplo condutor da Sessão 
 - `dados/dishes.csv` — 55 pratos, com campos inconsistentes propositalmente (nomes de país variados, unidades mistas, valores ausentes).
 - `dados/countries.csv` — tabela de referência de países (ISO3, região canônica, QID do Wikidata) para reconciliação.
 - `dados/GUIA_Exemplo_Condutor.md` — guia do instrutor: problemas plantados em cada campo e como eles conectam com cada princípio FAIR.
+
+## Licença
+
+Este repositório usa licenciamento misto:
+
+- **Slides** (`slides/`) — Creative Commons **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Você pode compartilhar e adaptar os slides para fins não comerciais, com atribuição. Texto completo em `slides/LICENSE`.
+- **Dados** (`dados/`) — **CC0 1.0 Universal** (domínio público). O conjunto World Dishes pode ser usado livremente para qualquer finalidade, inclusive comercial, sem atribuição. Texto completo em `dados/LICENSE`.
 
 ## Instrutor
 
